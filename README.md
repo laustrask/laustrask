@@ -1,7 +1,7 @@
-## Hi there 👋
-
-<!--
-**laustrask/laustrask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Laust Rask
+*Nanoscience Master's Student | Quantum Chemistry Enthusiast*
+Welcome to my GitHub! 
+I work on computational chemistry, electron transfer and molecular junctions.
 
 Here are some ideas to get you started:
 
